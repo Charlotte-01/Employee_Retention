@@ -21,4 +21,4 @@ In this challenge, you have a data set with info about the employees and have to
 * quit_date: when the employee left her job (if she is still employed as of 2015/12/13, this field is NA)
 
 ## Data explansion:
-![]
+![](example.png)
